@@ -1,0 +1,7 @@
+Viola-Jones Algorithm: There are different types of algorithm used in face detection.
+Here, we have used Viola-Jones Algorithm for face detection using MATLAB program.
+This algorithm works in following steps:
+1. Creates a detector object using Viola-Jones Algorithm.
+2. Takes the image from the video.
+3. Detects features.
+4. Annotates the detected features. 
